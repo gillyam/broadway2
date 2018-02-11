@@ -20,3 +20,13 @@ h3{
 p{
   font-size: 14px;
 }
+.footer{
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px;
+}
+.navigation{
+  color: white;
+  font-size: 18px;
+}
