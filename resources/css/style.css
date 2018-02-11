@@ -1,0 +1,9 @@
+html{
+  font-family: Helvetica;
+}
+h1{
+  font-size: 70px;
+}
+.flatiron{
+  background-image: url(../images/the-flatiron-building.png);
+}
